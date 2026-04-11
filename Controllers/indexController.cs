@@ -8,12 +8,14 @@ namespace WebApplication_test.Controllers
         // GET: indexController
         public ActionResult Index()
         {
+            string p = "ye zaman branch hy is ma code push karna hy";
             return View();
         }
 
         // GET: indexController/Details/5
         public ActionResult Details(int id)
         {
+           
             return View();
         }
 
