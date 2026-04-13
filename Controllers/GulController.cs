@@ -8,18 +8,21 @@ namespace WebApplication_test.Controllers
         // GET: GulController
         public ActionResult Index()
         {
+            string []arry=new string[5]{"Gul","Gul1","Gul2","Gul3","Gul4"};
             return View();
         }
 
         // GET: GulController/Details/5
         public ActionResult Details(int id)
         {
+            int []arrryint=new int[5]{1,2,3,4,5};
             return View();
         }
 
         // GET: GulController/Create
         public ActionResult Create()
         {
+            char []arrychar=new char[5]{'a','b','c','d','e'};
             return View();
         }
 
