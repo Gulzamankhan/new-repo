@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\testapp\\WebApplication_test\\WebApplication_test\\WebApplication_test.csproj",
+      "projectUniqueName": "C:\\Users\\BALOCH ZADA\\Desktop\\onnerfork\\WebApplication_test.csproj",
       "projectName": "WebApplication_test",
-      "projectPath": "E:\\testapp\\WebApplication_test\\WebApplication_test\\WebApplication_test.csproj",
+      "projectPath": "C:\\Users\\BALOCH ZADA\\Desktop\\onnerfork\\WebApplication_test.csproj",
       "packagesPath": "C:\\Users\\BALOCH ZADA\\.nuget\\packages\\",
-      "outputPath": "E:\\testapp\\WebApplication_test\\WebApplication_test\\obj\\",
+      "outputPath": "C:\\Users\\BALOCH ZADA\\Desktop\\onnerfork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -33,3 +33,38 @@ E:\testapp\WebApplication_test\WebApplication_test\obj\Debug\net8.0\refint\WebAp
 E:\testapp\WebApplication_test\WebApplication_test\obj\Debug\net8.0\WebApplication_test.pdb
 E:\testapp\WebApplication_test\WebApplication_test\obj\Debug\net8.0\WebApplication_test.genruntimeconfig.cache
 E:\testapp\WebApplication_test\WebApplication_test\obj\Debug\net8.0\ref\WebApplication_test.dll
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\appsettings.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.staticwebassets.runtime.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.staticwebassets.endpoints.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.exe
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.deps.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.runtimeconfig.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.dll
+C:\Users\BALOCH ZADA\Desktop\onnerfork\bin\Debug\net8.0\WebApplication_test.pdb
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.AssemblyInfoInputs.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.AssemblyInfo.cs
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.csproj.CoreCompileInputs.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.RazorAssemblyInfo.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.RazorAssemblyInfo.cs
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.sourcelink.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\scopedcss\bundle\WebApplication_test.styles.css
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication_test.bundle.scp.css
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.dll
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\refint\WebApplication_test.dll
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.pdb
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\WebApplication_test.genruntimeconfig.cache
+C:\Users\BALOCH ZADA\Desktop\onnerfork\obj\Debug\net8.0\ref\WebApplication_test.dll
