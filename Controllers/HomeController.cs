@@ -15,6 +15,8 @@ namespace WebApplication_test.Controllers
 
         public IActionResult Index()
         {
+            string name = "John Doe";
+            string[] arry= new string[] { "C#", "ASP.NET", "MVC" };
             return View();
         }
 
